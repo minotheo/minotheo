@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm minotheo
 
+I'm creating websites and currently learning some things in C++
+
+## My socials 
+
+- [Twitter](https://twitter.com/minotheo)
+- [Discord](https://discord.com/invite/mdwVmbU)
+
+## My WebStack
+- [React]
+- [NodeJS]
+- [Express]
+- [Sequelize]
 <!--
 **minotheo/minotheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
