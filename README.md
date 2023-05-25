@@ -8,8 +8,9 @@ I'm creating websites and currently learning some things in C++
 - [Discord](https://discord.com/invite/mdwVmbU)
 
 ## My WebStack
-- React [Redux, RTK Query, Axios]
-- NodeJS [Express, Sequelize] 
+- React [ Redux, RTK Query, Axios]
+- NodeJS [ Express, Sequelize ] 
+- Nest 
 <!--
 **minotheo/minotheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
