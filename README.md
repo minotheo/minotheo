@@ -5,23 +5,23 @@ I'm a fullstack web developer, my web stack is React | Ionic | Electron & Nest.
 ## Technologies stack :
 
 Frontend ->
-- RTK Query
-- Redux
-- SASS
-- Axios
+- RTK Query,
+- Redux,
+- SASS,
+- Axios;
   
 Backend ->
-- Sequelize, Mongoose
-- Swagger-
-- JWT
+- Sequelize, Mongoose,
+- Swagger,
+- JWT;
 
-Some useless things : Prettier, Husky, ESlint
-Builders : Vite, Webpack
+Some useless things : Prettier, Husky, ESlint;
+Builders : Vite, Webpack;
 
 ## My socials 
 
-- Twitter (https://twitter.com/minotheo)
-- Discord (https://discord.com/invite/T35bmQhpj8)
+- Twitter (https://twitter.com/minotheo),
+- Discord (https://discord.com/invite/T35bmQhpj8);
 
 <!--
 **minotheo/minotheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
