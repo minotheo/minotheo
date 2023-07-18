@@ -2,7 +2,8 @@
 
 I'm a fullstack web developer, my web stack is React | Ionic | Electron & Nest.
 
-Technologies stack :
+## Technologies stack :
+
 Frontend ->
 - RTK Query
 - Redux
@@ -19,13 +20,9 @@ Builders : Vite, Webpack
 
 ## My socials 
 
-- [Twitter](https://twitter.com/minotheo)
-- [Discord](https://discord.com/invite/mdwVmbU)
+- Twitter (https://twitter.com/minotheo)
+- Discord (https://discord.com/invite/T35bmQhpj8)
 
-## My WebStack
-- React [ Redux, RTK Query, Axios]
-- NodeJS [ Express, Sequelize ] 
-- Nest 
 <!--
 **minotheo/minotheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
