@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer, my web stack is React | Ionic | Electron & Nest.
 
-## Technologies stack :
+## Technologies stack
 
 Frontend ->
 - RTK Query,
