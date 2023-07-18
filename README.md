@@ -1,6 +1,21 @@
 ### Hi there 👋 I'm minotheo
 
-I'm creating websites and currently learning some things in C++
+I'm a fullstack web developer, my web stack is React | Ionic | Electron & Nest.
+
+Technologies stack :
+Frontend ->
+- RTK Query
+- Redux
+- SASS
+- Axios
+  
+Backend ->
+- Sequelize, Mongoose
+- Swagger-
+- JWT
+
+Some useless things : Prettier, Husky, ESlint
+Builders : Vite, Webpack
 
 ## My socials 
 
