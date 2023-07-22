@@ -15,7 +15,7 @@ Backend ->
 - Swagger,
 - JWT;
 
-Some useless things : Prettier, Husky, ESlint;
+Some useful things : Prettier, Husky, ESlint;
 Builders : Vite, Webpack;
 
 ## My socials 
