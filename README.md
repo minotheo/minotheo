@@ -1,39 +1,26 @@
-### Hi there 👋 I'm minotheo
+#Hi there! 👋 I'm minotheo
+Welcome to my GitHub profile! I'm a Full-Stack Web Developer passionate about building modern, scalable, and high-performance applications.
 
-I'm a fullstack web developer, my web stack is React | Ionic | Electron & Nest.
+##💡 About Me
 
-## Technologies stack
+🚀 I specialize in developing full-stack web applications
+🌱 Currently learning deep js/ts/c++=
+🎯 Looking to collaborate on reversing projects
 
-Frontend ->
-- RTK Query,
-- Redux,
-- SASS,
-- Axios;
-  
-Backend ->
-- Sequelize, Mongoose,
-- Swagger,
-- JWT;
+##🛠️ Tech Stack
+#Frontend 🌐
+⚡ React | Next.js | Vite | Webpack
+🎨 SASS | Prettier | Husky | ESLint
+🔗 Axios | RTK Query | Redux
 
-Some useful things : Prettier, Husky, ESlint;
-Builders : Vite, Webpack;
+#Backend 🖥️
+🚀 NestJS | Express | Fastify
+🗄️ Sequelize | Mongoose
+🔐 JWT Authentication
+📜 Swagger API Documentation
 
-## My socials 
+##🔧 Useful Technologies
+🛠 Docker | GraphQL | Microservices
+🔍 CI/CD Pipelines | Testing (Jest, Mocha, Chai)
 
-- Twitter (https://twitter.com/minotheo),
-- Discord (https://discord.com/invite/T35bmQhpj8);
-
-<!--
-**minotheo/minotheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📬 Connect with Me
