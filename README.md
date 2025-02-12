@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm minotheo
+<h1># Hi there! 👋 I'm minotheo</h1>
 Welcome to my GitHub profile! I'm a Full-Stack Web Developer passionate about building modern, scalable, and high-performance applications.
 # 💡 About Me
 - 🚀 I specialize in developing full-stack web applications
