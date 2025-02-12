@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate about building modern, scalable, and high-performance applications.  
 
-## 💡 About Me
+### 💡 About Me
 - 🚀 I specialize in: _Full-stack web development_
 - 🌱 Currently learning: _js/ts/c++_
 - 🎯 Looking to collaborate on: _reversing games_
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **🌐 Frontend**
 - ⚡ React, Next.js, Vite, Webpack
@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate abou
 - 🔐 JWT Authentication
 - 📜 Swagger API Documentation
 
-## 🔧 Useful Technologies
+### 🔧 Useful Technologies
 - 🛠 Docker, GraphQL, Microservices
 - 🔍 CI/CD Pipelines, Testing (Jest, Mocha, Chai)
 
-## 📬 Connect with Me
+### 📬 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minotheo)
