@@ -3,26 +3,26 @@
 Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate about building modern, scalable, and high-performance applications.  
 
 ## 💡 About Me
-- 🚀 **I specialize in:** _Full-stack web development_
-- 🌱 **Currently learning:** js/ts/c++
-- 🎯 **Looking to collaborate on:** reversing games
+- 🚀 I specialize in: _Full-stack web development_
+- 🌱 Currently learning: _js/ts/c++_
+- 🎯 Looking to collaborate on: _reversing games_
 
 ## 🛠️ Tech Stack
 
-*🌐 Frontend*
-- ⚡ **React** | **Next.js** | **Vite** | **Webpack**  
-- 🎨 **SASS** | **Prettier** | **Husky** | **ESLint**  
-- 🔗 **Axios** | **RTK Query** | **Redux**  
+**🌐 Frontend**
+- ⚡ React, Next.js, Vite, Webpack
+- 🎨 SASS, Prettier, Husky, ESLint
+- 🔗 Axios, RTK Query, Redux
 
-*🖥️ Backend*
-- 🚀 **NestJS** | **Express** | **Fastify**  
-- 🗄️ **Sequelize** | **Mongoose**  
-- 🔐 **JWT Authentication**  
-- 📜 **Swagger API Documentation**  
+**🖥️ Backend**
+- 🚀 NestJS, Express, Fastify
+- 🗄️ Sequelize, Mongoose 
+- 🔐 JWT Authentication
+- 📜 Swagger API Documentation
 
 ## 🔧 Useful Technologies
-- 🛠 **Docker** | **GraphQL** | **Microservices**  
-- 🔍 **CI/CD Pipelines** | **Testing (Jest, Mocha, Chai)**  
+- 🛠 Docker, GraphQL, Microservices
+- 🔍 CI/CD Pipelines, Testing (Jest, Mocha, Chai)
 
 ## 📬 Connect with Me
 
