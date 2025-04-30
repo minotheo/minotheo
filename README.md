@@ -15,14 +15,14 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate abou
 - 🔗 Axios, RTK Query, Redux
 
 **🖥️ Backend**
-- 🚀 NestJS, Express, Fastify
-- 🗄️ Typeorm, Sequelize, Mongoose, Prisma
+- 🚀 NestJS, Express
+- 🗄️ Typeorm, Prisma
 - 🔐 Session | JWT Authentication
 - 📜 Swagger API Documentation
 
 ## 🔧 Useful Technologies
 - 🛠 Docker, Microservices
-- 🔍 CI/CD Pipelines, Testing (Jest, Mocha, Chai)
+- 🔍 CI/CD Pipelines, Testing (Jest)
 
 ## 📬 Connect with Me
 
