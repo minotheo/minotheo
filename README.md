@@ -10,18 +10,18 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate abou
 ## 🛠️ Tech Stack
 
 **🌐 Frontend**
-- ⚡ React, Next.js, Vite, Webpack
+- ⚡ React, Vue, Next.js, Vite, Webpack
 - 🎨 SASS, Prettier, Husky, ESLint
 - 🔗 Axios, RTK Query, Redux
 
 **🖥️ Backend**
 - 🚀 NestJS, Express, Fastify
-- 🗄️ Sequelize, Mongoose 
-- 🔐 JWT Authentication
+- 🗄️ Typeorm, Sequelize, Mongoose, Prisma
+- 🔐 Session | JWT Authentication
 - 📜 Swagger API Documentation
 
 ## 🔧 Useful Technologies
-- 🛠 Docker, GraphQL, Microservices
+- 🛠 Docker, Microservices
 - 🔍 CI/CD Pipelines, Testing (Jest, Mocha, Chai)
 
 ## 📬 Connect with Me
