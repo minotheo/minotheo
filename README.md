@@ -1,28 +1,58 @@
-# Hi there! 👋 I'm **minotheo**  
+# Hi there! 👋 I'm **minotheo**
 
-Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** passionate about building modern, scalable, and high-performance applications.  
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with experience in **multiplayer game server development**, passionate about building modern, scalable, and high-performance applications.
 
 ## 💡 About Me
-- 🚀 I specialize in: _Full-stack web development_
-- 🌱 Currently learning: _js/ts/c++_
-- 🎯 Looking to collaborate on: _reversing games_
+
+- 🚀 I specialize in: **Full-stack web development & multiplayer game server development**
+- 🌱 Currently learning: **JavaScript/TypeScript, C++**
+- 🎯 Looking to collaborate on: **web applications, game server projects, tooling & reverse engineering**
 
 ## 🛠️ Tech Stack
 
-**🌐 Frontend**
-- ⚡ React, Vue, Next.js, Vite, Webpack
-- 🎨 SASS, Prettier, Husky, ESLint
-- 🔗 Axios, RTK Query, Redux
+### 🌐 Frontend
+- ⚛️ React, Vue, Next.js
+- ⚡ Vite, Webpack
+- 🎨 Mantine, Chakra UI, shadcn/ui
+- 🔄 Redux, RTK Query, Axios
+- 💅 SASS
+- 🧹 ESLint, Prettier, Husky
 
-**🖥️ Backend**
-- 🚀 NestJS, Express
-- 🗄️ Typeorm, Prisma
-- 🔐 Session | JWT Authentication
-- 📜 Swagger API Documentation
+### 🖥️ Backend
+- 🚀 NestJS, Express, Fastify
+- 🗄️ TypeORM, Prisma, MySQL
+- 🔐 JWT & Session Authentication
+- 📊 Prometheus, Sentry
+- 📜 Swagger / OpenAPI
+- 🏗️ Microservices
 
-## 🔧 Useful Technologies
-- 🛠 Docker, Microservices
-- 🔍 CI/CD Pipelines, Testing (Jest)
+### 🎮 Multiplayer Development
+- 🐉 Lua, JavaScript, TypeScript
+- ⚙️ FXServer Resource Development
+- 🗄️ oxmysql
+- 📦 ox_lib, ox_inventory, ox_target
+- 🚓 ESX Legacy, QBCore
+- 🔄 Client/Server Events, NUI, State Bags
+- 💾 Database Optimization & Async Queries
+- 🛠️ Custom Systems, UI & Integrations
+
+## 💼 What I Build
+
+- 🌐 SaaS applications
+- 🛠️ Admin panels & dashboards
+- 📄 Landing pages
+- 🤖 Telegram & Discord bots
+- 🔌 REST APIs
+- ⚡ Backend services
+- 🎮 Custom multiplayer game systems
+
+## 🔧 Tools
+
+- 🐳 Docker
+- 🐧 Linux
+- 📝 Git & GitHub Actions
+- 🔄 CI/CD
+- ✅ Jest
 
 ## 📬 Connect with Me
 
