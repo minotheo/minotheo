@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with experience in 
 
 ### 🖥️ Backend
 - 🚀 NestJS, Express, Fastify
-- 🗄️ TypeORM, Prisma, MySQL
+- 🗄️ TypeORM/Sequelize/Prisma (MySQL/Postgress), Redis
 - 🔐 JWT & Session Authentication
 - 📊 Prometheus, Sentry
 - 📜 Swagger / OpenAPI
